@@ -1,4 +1,4 @@
-# 💎 HMR(Hyderabad Metr Rail) - Automation Testing
+# 💎 HMR(Hyderabad Metro Rail) - Automation Testing
 
 ## 💠 Automation of Hyderabad Metro Rail User Portal using Selenium WebDriver with Java & TestNG Framework
 
